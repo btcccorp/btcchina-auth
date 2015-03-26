@@ -1,6 +1,8 @@
-# btcchina-auth
+# btcchina-auth [![Build Status](https://travis-ci.org/BTCChina/btcchina-auth.svg?branch=master)](https://travis-ci.org/BTCChina/btcchina-auth)
 
 BTCChina authentication module.
+
+
 
 ### Version
 0.0.1
